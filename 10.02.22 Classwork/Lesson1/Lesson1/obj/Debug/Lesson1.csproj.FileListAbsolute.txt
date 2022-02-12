@@ -1,0 +1,6 @@
+C:\Users\johtai\Education\C#\Lesson1\Lesson1\bin\Debug\Lesson1.exe.config
+C:\Users\johtai\Education\C#\Lesson1\Lesson1\bin\Debug\Lesson1.exe
+C:\Users\johtai\Education\C#\Lesson1\Lesson1\bin\Debug\Lesson1.pdb
+C:\Users\johtai\Education\C#\Lesson1\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\johtai\Education\C#\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+C:\Users\johtai\Education\C#\Lesson1\Lesson1\obj\Debug\Lesson1.pdb
